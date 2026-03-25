@@ -61,9 +61,9 @@ Internal users or apps call the Function App over a **private endpoint**, and th
 
 [1]: https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint "Use Private Endpoints for Apps - Azure App Service | Microsoft Learn"
 [2]: https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet "Use private endpoints to integrate Azure Functions with a virtual network | Microsoft Learn"
-[3]: https://learn.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable?utm_source=chatgpt.com "Enable virtual network integration in Azure App Service"
-[4]: https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview?utm_source=chatgpt.com "Subnet Delegation in Azure Virtual Network"
-[5]: https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy?utm_source=chatgpt.com "Manage network policies for private endpoints"
+[3]: https://learn.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable "Enable virtual network integration in Azure App Service"
+[4]: https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview "Subnet Delegation in Azure Virtual Network"
+[5]: https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy "Manage network policies for private endpoints"
 [6]: https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints "Use private endpoints - Azure Storage | Microsoft Learn"
 [7]: https://learn.microsoft.com/en-us/azure/app-service/overview-vnet-integration "Integrate your app with an Azure virtual network - Azure App Service | Microsoft Learn"
 [8]: https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings "App settings reference for Azure Functions | Microsoft Learn"
