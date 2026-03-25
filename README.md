@@ -58,7 +58,6 @@ Internal users or apps call the Function App over a **private endpoint**, and th
 * **Storage firewall:**
   Creating a storage private endpoint does **not** automatically disable public access. Restrict the storage public endpoint separately. ([Microsoft Learn][6])
 
-I can also turn this into a **Visio-style architecture table plus Mermaid diagram** if you want.
 
 [1]: https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint "Use Private Endpoints for Apps - Azure App Service | Microsoft Learn"
 [2]: https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet "Use private endpoints to integrate Azure Functions with a virtual network | Microsoft Learn"
