@@ -1,0 +1,1 @@
+# FunctionApp-and-Storage-account-using-private-endpoint
