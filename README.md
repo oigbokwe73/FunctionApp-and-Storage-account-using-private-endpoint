@@ -4,7 +4,7 @@ Below is a practical **use case + step-by-step build table** for a **Function Ap
 
 ### Example use case
 
-A finance or healthcare integration function must not be exposed publicly. Internal users or apps call the Function App over a **private endpoint**, and the Function App reaches its required **Azure Storage account privately** through **VNet integration + storage private endpoints**. In Azure, the Function App’s **private endpoint is only for inbound traffic**, while **VNet integration is for outbound traffic**. The VNet integration subnet must be **dedicated/empty** and delegated to **`Microsoft.Web/serverFarms`**; it cannot be the same subnet as the Function App private endpoint. ([Microsoft Learn][1])
+Internal users or apps call the Function App over a **private endpoint**, and the Function App reaches its required **Azure Storage account privately** through **VNet integration + storage private endpoints**. In Azure, the Function App’s **private endpoint is only for inbound traffic**, while **VNet integration is for outbound traffic**. The VNet integration subnet must be **dedicated/empty** and delegated to **`Microsoft.Web/serverFarms`**; it cannot be the same subnet as the Function App private endpoint. ([Microsoft Learn][1])
 
 ## Detailed steps
 
